@@ -4,9 +4,10 @@
 
 ## Tecnologies
 
-This project was developed using cutting edge front-end technologies.
+This project was developed using cutting edge Back-End technologies.
 
 - [Typescript](https://www.typescriptlang.org/)
+- [NodeJS](https://nodejs.org/)
 
 
 ## 💻 Getting started
