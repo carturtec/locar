@@ -1,18 +1,6 @@
-<div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
-</div>
-
-## Podcastr
-
-[![Author](https://img.shields.io/badge/author-josepholiveira-8257E5?style=flat-square)](https://github.com/josepholiveira)
-[![Languages](https://img.shields.io/github/languages/count/josepholiveira/podcastr?color=%238257E5&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/josepholiveira/podcastr?color=8257E5&style=flat-square)](https://github.com/josepholiveira/podcastr/stargazers)
-
 <h4 align="center">
-  Podcastr is a platform built for podcast broadcasting.
+  Locar - App de aluguel de Carros
 </h4>
-
-![Podcastr preview](.github/app-preview.png)
 
 ## Tecnologies
 
@@ -23,10 +11,8 @@
 
 This project was developed using cutting edge front-end technologies.
 
-
-- [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Next.js](https://nextjs.org/)
+
 
 ## 💻 Getting started
 
@@ -53,7 +39,7 @@ $ yarn server
 $ yarn dev
 ```
 
-The app will be available for access on your browser at `http://localhost:3000`
+The app will be available for access on your browser at `http://localhost:3333`
 
 ## 📝 License
 
