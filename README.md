@@ -4,11 +4,6 @@
 
 ## Tecnologies
 
-<div align="center">
-  <br />
-  <img src=".github/tech-logos.png" alt="Technologies used">
-</div>
-
 This project was developed using cutting edge front-end technologies.
 
 - [Typescript](https://www.typescriptlang.org/)
@@ -23,7 +18,7 @@ This project was developed using cutting edge front-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/carturtec/locar.git && cd locar
 ```
 
 **Follow the steps below**
